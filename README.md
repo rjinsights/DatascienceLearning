@@ -1,2 +1,2 @@
-#Learning Repository
-My Datascience Learning Repository
+# Learning Repository
+Welcome to my learning repository.
